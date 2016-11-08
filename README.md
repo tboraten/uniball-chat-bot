@@ -28,3 +28,5 @@ Current Commands:
 - !freeagents
 - !rules
 - !schedul
+
+*Whispers are not currently supported
