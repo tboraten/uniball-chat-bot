@@ -9,18 +9,18 @@ Connects to mysql database. Same database populates website.
 Some commands reserved for refs.
 
 Current Commands:
-!register
-!createsquad squad_name (No spaces in squad name)
-!invite player_name
-!kick player_name
-!join rsquad_id
-!leave
-!mysquad
-!squads
-!myinvites
-!lock
-!listopen
-!listclosed
-!freeagents
-!rules
+!register,
+!createsquad squad_name (No spaces in squad name),
+!invite player_name,
+!kick player_name,
+!join rsquad_id,
+!leave,
+!mysquad,
+!squads,
+!myinvites,
+!lock,
+!listopen,
+!listclosed,
+!freeagents,
+!rules,
 !schedule
